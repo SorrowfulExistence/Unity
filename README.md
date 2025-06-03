@@ -17,9 +17,8 @@ An NDMF-based Unity tool for VRChat avatars that automatically deletes mesh face
 5. Upload avatar - faces are automatically removed
 
 ## Requirements
-- Unity 2022.3.x
+- Unity 2022.3.x (some older versions may still work)
 - NDMF 1.x (Non-Destructive Modular Framework) 
-- VRChat SDK
 
 Decent for optimizing avatars by removing hidden geometry under clothing or creating UV-based toggle systems.
 Created based on specifications and details from Wosted.
