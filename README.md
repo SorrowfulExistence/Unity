@@ -21,4 +21,4 @@ An NDMF-based Unity tool for VRChat avatars that automatically deletes mesh face
 - NDMF 1.x (Non-Destructive Modular Framework) https://github.com/bdunderscore/ndmf
 
 Decent for optimizing avatars by removing hidden geometry under clothing or creating UV-based toggle systems.
-Created based on specifications and details from Wosted.
+Created based on specifications and details from my friend wosted.
