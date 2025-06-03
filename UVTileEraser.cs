@@ -2,7 +2,6 @@
 
 Unity script to erase UV tiles from meshes based on user-defined grid
 Based on NDMF framework (credit to nadena.dev), so NDMF is a dependency which must be installed
-Made by SorrowfulExistence for Wosted according to her specifications
 
 */
 
