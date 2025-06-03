@@ -1,4 +1,4 @@
-# UV Tile Eraser: 
+# UV Tile Eraser
 An NDMF-based Unity tool for VRChat avatars that automatically deletes mesh faces based on UV tile selection during avatar upload.
 
 ## Features
